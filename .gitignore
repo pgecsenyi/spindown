@@ -1,0 +1,9 @@
+# gedit temporary files.
+*.py~
+*.sh~
+
+# Python bytecode.
+*.pyc
+
+# Pylint output.
+report_code_quality.txt
